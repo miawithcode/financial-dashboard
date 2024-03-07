@@ -3,7 +3,18 @@
 > This is a Next.js 14 project-based learning from [Next.js Website](https://nextjs.org/learn/dashboard-app).
 
 
-## `clsx` Library - conditionally apply class names
+## CSS Styling
+
+> Take a look at the [CSS documentation](https://nextjs.org/docs/app/building-your-application/styling) for more information.
+
+1. Global styles - import `global.css` in `/app/layout.tsx`
+2. How to apply CSS styles in Next.js
+   - [Tailwind CSS](https://tailwindcss.com/)
+   - [CSS Modules](https://nextjs.org/docs/basic-features/built-in-css-support)
+   - Sass
+   - CSS-in-JS libraries such as [styled-components](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components)
+
+### `clsx` Library - conditionally apply class names
 
 [clsx](https://www.npmjs.com/package/clsx) is a library that lets you toggle class names easily. View [documentation](https://github.com/lukeed/clsx) for more details.
 
