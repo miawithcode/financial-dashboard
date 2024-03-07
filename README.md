@@ -1,6 +1,6 @@
 # Simplified Financial Dashboard
 
-> This is a Next.js 14 project-based learning from [Next.js Website](https://nextjs.org/learn/dashboard-app).
+> This is a Next.js project-based learning from [Next.js Website](https://nextjs.org/learn/dashboard-app).
 
 
 ## CSS Styling
@@ -16,7 +16,7 @@
 
 ### `clsx` Library - conditionally apply class names
 
-[clsx](https://www.npmjs.com/package/clsx) is a library that lets you toggle class names easily. View [documentation](https://github.com/lukeed/clsx) for more details.
+> [clsx](https://www.npmjs.com/package/clsx) is a library that lets you toggle class names easily. View [documentation](https://github.com/lukeed/clsx) for more details.
 
 Basic usage: 
 ```tsx
