@@ -94,3 +94,9 @@ In order to show an active link, you need to get the user's current path from th
       )}
     >
    ```
+
+## Setup Database
+
+> [Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
+
+Set database with Vercel and PostgresSQL
