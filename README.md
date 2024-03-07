@@ -46,3 +46,11 @@ Next.js automatically optimizes fonts in the application when you use the next/f
 It downloads font files at build time and hosts them with your other static assets. 
 
 This means when a user visits your application, there are no additional network requests for fonts which would impact performance.
+
+## Images
+
+> [Image Optimization Docs](Image Optimization Docs)
+
+Instead of manually implementing optimizations such as responsive images, lazy load images, you can use the `next/image` component to automatically optimize your images.
+
+use Next.js `<Image>` instead of traditional HTML `<img>`
