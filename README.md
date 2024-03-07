@@ -36,3 +36,13 @@ export default function InvoiceStatus({ status }: { status: string }) {
     // ...
 )}
 ```
+
+## Fonts
+
+> See the documentation for [adding multiple fonts](https://nextjs.org/docs/app/building-your-application/optimizing/fonts#using-multiple-fonts) and the [full list of options](https://nextjs.org/docs/app/api-reference/components/font#font-function-arguments).
+
+Next.js automatically optimizes fonts in the application when you use the next/font module. 
+
+It downloads font files at build time and hosts them with your other static assets. 
+
+This means when a user visits your application, there are no additional network requests for fonts which would impact performance.
