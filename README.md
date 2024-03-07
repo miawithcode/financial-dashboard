@@ -1,5 +1,7 @@
 # Simplified Financial Dashboard
 
+![](./public/screenshot.png)
+
 > This is a Next.js project-based learning from [Next.js Website](https://nextjs.org/learn/dashboard-app).
 
 ## CSS Styling
