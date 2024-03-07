@@ -106,3 +106,7 @@ Set database with Vercel and PostgresSQL
 ## Fetch Data
 
 > Different ways of [fetch data in Next.js](https://nextjs.org/learn/dashboard-app/fetching-data).
+
+## Search and Pagination
+
+> read [Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
