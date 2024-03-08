@@ -110,3 +110,7 @@ Set database with Vercel and PostgresSQL
 ## Search and Pagination
 
 > read [Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
+
+## Mutate Data
+
+> Mutate date using form and server action. Read more about [security with Server Actions](https://nextjs.org/blog/security-nextjs-server-components-actions)
